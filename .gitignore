@@ -83,3 +83,8 @@ crashlytics.properties
 crashlytics-build.properties
 fabric.properties
 
+# Hestia
+.hestia
+
+# MacOS
+.DS_Store
